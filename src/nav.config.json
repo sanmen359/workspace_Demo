@@ -1,0 +1,30 @@
+ {
+  "zh-CN": [{
+          "groupName": "基本控件",
+          "path":"1",
+          "list": [
+            {
+              "path": "/table",
+              "title": "Table 布局"
+            },
+            {
+              "path": "/home",
+              "title": "首页"
+            }
+          ]
+        }],
+  "en-US": [{
+          "groupName": "Basic",
+          "path":"1",
+          "list": [
+            {
+              "path": "/table",
+              "title": "Table 布局"
+            },
+            {
+              "path": "/home",
+              "title": "首页"
+            }
+          ]
+        }]
+}
